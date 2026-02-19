@@ -19,3 +19,8 @@ A backend analytics system that integrates with Codeforces API to analyze user p
 - Topic difficulty heatmap
 - React dashboard
 - MongoDB integration
+
+## Project Structure
+- Backend (Node + Express)
+- Frontend (React + Recharts)
+- Analytics from Codeforces API
